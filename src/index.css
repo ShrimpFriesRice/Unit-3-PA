@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(237, 157, 9);
+    background-color: rgb(251, 251, 251);
     padding: 20px;
     margin: 0;
   }
@@ -13,7 +13,7 @@ body {
     margin: 0;
   }
   ul.header {
-    background-color: rgb(128, 73, 6);
+    background-color: rgb(0, 0, 0);
     padding: 0;
     align-content: center
   }
@@ -25,7 +25,7 @@ body {
     display: inline-block;
   }
   .content {
-    background-color: rgb(245, 235, 44);
+    background-color: rgb(251, 241, 50);
     padding: 25px;
   }
   .content h2 {
